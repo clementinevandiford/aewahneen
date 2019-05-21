@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ohxuweiza.vrinputrecorder.com/sitemap.xml
